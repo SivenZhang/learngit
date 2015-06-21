@@ -7,3 +7,5 @@ Git is great!
 
 
 Hello world!!!
+
+git has a mutable index called stage!
